@@ -29,18 +29,11 @@ Key aspects of the project include defining network parameters, implementing for
 
 ## Installation
 
-1. Clone the repository:
-
-git clone https://github.com/yourusername/computational-intelligence.git
-cd computational-intelligence
-
-text
 
 2. Install required packages:
 
 pip install torch torchvision numpy matplotlib
 
-text
 
 ## Usage
 
